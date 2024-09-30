@@ -1,0 +1,16 @@
+Cài đặt Fresh: Cài đặt công cụ Fresh với lệnh sau:
+go install github.com/gravityblast/fresh@latest
+
+fresh
+
+
+
+Các lệnh khởi tạo dự án
+
+- go mod init student_management
+
+cài đặt các package
+
+- go get -u github.com/go-sql-driver/mysql
+
+- go get -u github.com/gorilla/mux
